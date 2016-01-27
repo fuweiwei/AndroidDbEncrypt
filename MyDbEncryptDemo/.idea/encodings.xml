@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/jniLibs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libdatabase_sqlcipher.so" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libsqlcipher_android.so" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libstlport_shared.so" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
